@@ -1,0 +1,2 @@
+# Portfolio_Insurance_Template_index
+Mobile responsive
